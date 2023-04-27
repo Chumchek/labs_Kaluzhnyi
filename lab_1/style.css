@@ -1,0 +1,26 @@
+.header h1 {
+    text-align: center;
+}
+.header__top {
+    font-weight: bold;
+    text-align: left;
+}
+.header__bottom {
+    width: 100%;
+    font-weight: bold;
+    text-align: right;
+}
+
+.header h1 b {
+    color: red;
+}
+.image {
+    text-align: center;
+}
+
+.image img {
+    height: 300px;
+    width: 500px;
+    animation: rotate 2s linear infinite forwards;
+}
+

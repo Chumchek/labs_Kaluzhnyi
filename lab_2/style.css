@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    padding-right:3rem;
+    padding-left: 3rem;
+    padding-top: 1rem;
+  }
+  
+  table {
+    width: 100%;
+    border: 1px solid black;
+  }
+  
+  table tr, td {
+    border: 1px solid black;
+  }
+  
+  td {
+    width: 5rem;
+    height: 3rem;
+  }
